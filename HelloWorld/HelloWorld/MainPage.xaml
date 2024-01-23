@@ -9,7 +9,7 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-      
+
 
             <Label
                 x:Name="lblDisplay"
@@ -18,7 +18,7 @@
                 FontSize="32"
                 HorizontalOptions="Center" />
 
-            
+
 
             <Button
                 x:Name="CounterBtn"
