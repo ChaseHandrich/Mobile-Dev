@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcVd11gKc8F6CI1WQ4ZCrHcdWxRbIvhbaezjGyzHqCFbN1x2KDWACR7GYSFDcQv3EzYLzS1H47npoRF6G+GCfA==",
+  "dgSpecHash": "MGdsCHP+zFZztc8NeTKRW1PKNR2JgzzTpWEfxhw5d/422i+X6MdK6uXp8dHgkiEAHb62GgaheuE4Tc0x/KyARA==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/MovieApp/MovieApp/MovieApp.csproj",
+  "projectFilePath": "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/MovieApp.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

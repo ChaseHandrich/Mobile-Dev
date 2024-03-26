@@ -1,9 +1,4 @@
 ﻿<Properties StartupConfiguration="{A58D13DC-D16C-48E6-B197-438BD36F4356}|Default">
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DateNight/AppShell.xaml">
     <Files>
       <File FileName="DateNight/AppShell.xaml" Line="9" Column="14" />
@@ -13,20 +8,28 @@
         <State name="__root__">
           <Node name="DateNight" expanded="True">
             <Node name="DateNight" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="CoffeePage.xaml" expanded="True" />
                 <Node name="DinnerPage.xaml" expanded="True" />
                 <Node name="MoneyPage.xaml" expanded="True" />
                 <Node name="MoviePage.xaml" expanded="True" />
               </Node>
+              <Node name="AppShell.xaml" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DateNight PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
 </Properties>

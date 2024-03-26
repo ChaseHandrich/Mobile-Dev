@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ED11E478-B16E-4F7F-A51D-4449060B8AA3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Marathon/Models/result.cs">
+    <Files>
+      <File FileName="Marathon/MainPage.xaml.cs" Line="36" Column="40" />
+      <File FileName="Marathon/MainPage.xaml" Line="10" Column="220" />
+      <File FileName="Marathon/Models/race.cs" Line="1" Column="1" />
+      <File FileName="Marathon/Models/result.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Marathon" expanded="True">
+            <Node name="Marathon" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="result.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.ItemProperties.Marathon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

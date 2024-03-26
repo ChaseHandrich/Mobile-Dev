@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Projects/MovieApp/MovieApp/MovieApp.csproj": {}
+    "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/MovieApp.csproj": {}
   },
   "projects": {
-    "/Users/student/Projects/MovieApp/MovieApp/MovieApp.csproj": {
+    "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Projects/MovieApp/MovieApp/MovieApp.csproj",
+        "projectUniqueName": "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "/Users/student/Projects/MovieApp/MovieApp/MovieApp.csproj",
+        "projectPath": "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/MovieApp.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Projects/MovieApp/MovieApp/obj/",
+        "outputPath": "/Users/student/Projects/Mobile-Dev/MovieApp/MovieApp/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
